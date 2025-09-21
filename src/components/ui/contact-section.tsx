@@ -10,8 +10,8 @@ export const ContactSection = () => {
             Contacta con Nosotros
           </h2>
           <p className="font-inter text-lg text-muted-foreground max-w-3xl mx-auto">
-            Descubre el sabor auténtico de Torredonjimeno. Ponte en contacto para conocer 
-            más sobre nuestros aceites premium o para realizar tu pedido.
+            Descubre el sabor auténtico de Torredonjimeno. En esta primera fase, nuestra pequeña 
+            producción se reparte entre nuestros conocidos. Ponte en contacto para más información.
           </p>
         </div>
 
@@ -42,7 +42,8 @@ export const ContactSection = () => {
                 <div>
                   <h4 className="font-inter font-semibold text-primary mb-1">Email</h4>
                   <p className="font-inter text-muted-foreground">
-                    info@abuelamatilde.com
+                    hola@olivar.bio<br />
+                    hola@aove.bio
                   </p>
                 </div>
               </div>
@@ -54,7 +55,8 @@ export const ContactSection = () => {
                 <div>
                   <h4 className="font-inter font-semibold text-primary mb-1">Teléfono</h4>
                   <p className="font-inter text-muted-foreground">
-                    +34 953 57 XX XX
+                    +34 636 077 155<br />
+                    <span className="text-sm opacity-80">Hablamos español, inglés, francés y portugués</span>
                   </p>
                 </div>
               </div>

@@ -33,8 +33,8 @@ export const LocationSection = () => {
             <div className="font-inter text-sm opacity-80">Días de Sol al Año</div>
           </div>
           <div className="text-center">
-            <div className="font-playfair text-3xl font-bold mb-2">D.O.P.</div>
-            <div className="font-inter text-sm opacity-80">Sierra de Cazorla</div>
+            <div className="font-playfair text-3xl font-bold mb-2">100%</div>
+            <div className="font-inter text-sm opacity-80">Ecológico Certificado</div>
           </div>
         </div>
       </div>

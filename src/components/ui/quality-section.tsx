@@ -9,15 +9,15 @@ export const QualitySection = () => {
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div>
             <Badge className="mb-6 bg-gradient-gold text-primary font-semibold">
-              Certificación Ecológica
+              Variedad Picual Premium
             </Badge>
             <h2 className="font-playfair text-4xl md:text-5xl font-bold text-primary mb-6">
-              Premium Quality desde Torredonjimeno
+              Selección Premium desde Torredonjimeno
             </h2>
             <p className="font-inter text-lg text-muted-foreground mb-8">
-              En el corazón de la campiña jiennense, donde el clima mediterráneo y 
-              los suelos calcáreos crean las condiciones perfectas para producir 
-              el aceite de oliva virgen extra de más alta calidad.
+              Nuestra "Selección Premium" es una pequeña partida de unas pocas decenas de botellas 
+              con la máxima calidad, extraída en el punto óptimo de maduración durante la cosecha 
+              temprana entre octubre y noviembre. Nuestro buque insignia.
             </p>
 
             <div className="space-y-6">
@@ -25,11 +25,11 @@ export const QualitySection = () => {
                 <div className="w-2 h-2 bg-accent rounded-full mt-3"></div>
                 <div>
                   <h3 className="font-inter font-semibold text-primary mb-2">
-                    100% Ecológico Certificado
+                    Variedad Picual Exclusiva
                   </h3>
                   <p className="font-inter text-muted-foreground">
-                    Cultivado sin pesticidas ni fertilizantes químicos, respetando 
-                    el medio ambiente y la pureza del producto.
+                    Cultivamos exclusivamente la variedad Picual, conocida por su 
+                    sabor intenso y propiedades antioxidantes excepcionales.
                   </p>
                 </div>
               </div>
@@ -38,11 +38,11 @@ export const QualitySection = () => {
                 <div className="w-2 h-2 bg-accent rounded-full mt-3"></div>
                 <div>
                   <h3 className="font-inter font-semibold text-primary mb-2">
-                    Extracción en Frío
+                    Cosecha Temprana Premium
                   </h3>
                   <p className="font-inter text-muted-foreground">
-                    Prensado en las primeras 24 horas tras la recolección para 
-                    preservar todas las propiedades organolépticas.
+                    Recolectamos entre octubre y noviembre, en el punto óptimo de 
+                    maduración para obtener el máximo sabor y calidad.
                   </p>
                 </div>
               </div>
@@ -51,11 +51,11 @@ export const QualitySection = () => {
                 <div className="w-2 h-2 bg-accent rounded-full mt-3"></div>
                 <div>
                   <h3 className="font-inter font-semibold text-primary mb-2">
-                    Denominación de Origen Protegida
+                    Certificado por Sohiscert
                   </h3>
                   <p className="font-inter text-muted-foreground">
-                    Avalado por la D.O.P. Sierra de Cazorla, garantía de 
-                    autenticidad y procedencia.
+                    Certificación ecológica oficial que garantiza la producción 
+                    100% ecológica y sostenible.
                   </p>
                 </div>
               </div>
