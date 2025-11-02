@@ -42,8 +42,7 @@ export const ContactSection = () => {
                 <div>
                   <h4 className="font-inter font-semibold text-primary mb-1">Email</h4>
                   <p className="font-inter text-muted-foreground">
-                    hola@olivar.bio<br />
-                    hola@aove.bio
+                    hola@abuelamatilde.com
                   </p>
                 </div>
               </div>
