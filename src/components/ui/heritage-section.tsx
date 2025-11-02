@@ -9,10 +9,10 @@ export const HeritageSection = () => {
             La Historia de Abuela Matilde
           </h2>
           <p className="font-inter text-lg text-muted-foreground max-w-3xl mx-auto">
-            Tras el fallecimiento de nuestro padre Manuel José, mi hermano Fernando, mi madre Matilde 
-            y yo José tomamos la decisión de convertir la producción a ecológico. Sin referentes apenas 
-            en nuestro entorno cercano, empezamos este proyecto con el convencimiento de crear el mejor 
-            aceite de oliva posible, respetando el medio ambiente y la salud de todos.
+            Matilde, al frente de este proyecto familiar, se atrevió a convertir toda la producción a 
+            ecológico. Sin referentes apenas en nuestro entorno cercano, emprendió este camino con la 
+            convicción de crear el mejor aceite de oliva virgen extra posible, respetando el medio 
+            ambiente, la tradición olivarera de nuestra tierra y la salud de todos.
           </p>
         </div>
 
