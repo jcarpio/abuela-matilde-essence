@@ -1,6 +1,6 @@
 import { Card } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import oliveOilBottle from "@/assets/olive-oil-bottle.jpg";
+import productImage from "@/assets/abuela-matilde-productos.png";
 
 export const QualitySection = () => {
   return (
@@ -65,8 +65,8 @@ export const QualitySection = () => {
           <div className="relative">
             <Card className="p-8 shadow-premium border-0 bg-gradient-earth">
               <img 
-                src={oliveOilBottle} 
-                alt="Botella de Aceite de Oliva Abuela Matilde"
+                src={productImage} 
+                alt="Productos Abuela Matilde - Botella y Latas de Aceite de Oliva Virgen Extra"
                 className="w-full max-w-md mx-auto rounded-lg shadow-gold"
               />
             </Card>
