@@ -1,6 +1,7 @@
 import { Card } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import productImage from "@/assets/abuela-matilde-productos.png";
+import sohiscertLogo from "@/assets/sohiscert-logo.jpg";
 
 export const QualitySection = () => {
   return (
@@ -53,10 +54,15 @@ export const QualitySection = () => {
                   <h3 className="font-inter font-semibold text-primary mb-2">
                     Certificado por Sohiscert
                   </h3>
-                  <p className="font-inter text-muted-foreground">
+                  <p className="font-inter text-muted-foreground mb-3">
                     Certificación ecológica oficial que garantiza la producción 
                     100% ecológica y sostenible.
                   </p>
+                  <img 
+                    src={sohiscertLogo} 
+                    alt="Certificado Sohiscert Agricultura Ecológica"
+                    className="w-32 h-auto mt-2"
+                  />
                 </div>
               </div>
             </div>
